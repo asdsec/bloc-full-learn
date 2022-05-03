@@ -1,10 +1,10 @@
-# bloc_full_learn
+# bloc-full-learn
 
-A new Flutter project.
+This project includes the codes which I wrote while I was learning BLoC Pattern (with testing).
 
-## Getting Started
+## Reference
 
-This project is a starting point for a Flutter application.
+ * 101 - from [Vandad Nahavandipoor](https://github.com/vandadnp) - [codes](https://youtu.be/Mn254cnduOY)
 
 A few resources to get you started if this is your first Flutter project:
 
