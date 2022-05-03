@@ -30,13 +30,18 @@ class LoginButton extends StatelessWidget {
         if (email.isEmpty || password.isEmpty) {
           //? NOTE: actually this function return future so normally we need to
           //? put [await] in front of it but, here we do not regard the outcome
-          showGenericDialog(
+          showGenericDialog<bool>(
             context: context,
-            title: LocaleKeys.e102_emailOrPasswordEmptydialogTitle,
-            content: LocaleKeys.e102_emailOrPasswordEmptyDescription,
+            title: LocaleKeys.e102_emailOrPasswordEmptydialogTitle.tr(),
+            content: LocaleKeys.e102_emailOrPasswordEmptyDescription.tr(),
             optionBuilder: () => {
               LocaleKeys.e102_ok.tr(): true,
             },
+          );
+        } else {
+          onLoginTapped(
+            email,
+            password,
           );
         }
       },
