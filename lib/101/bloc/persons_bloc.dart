@@ -1,4 +1,4 @@
-import 'package:bloc_full_learn/101/bloc/person.dart';
+import 'person.dart';
 import 'package:flutter/foundation.dart' show immutable;
 import 'package:flutter_bloc/flutter_bloc.dart';
 
