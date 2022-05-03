@@ -1,0 +1,14 @@
+{
+  "e102": {
+    "emailOrPasswordEmptydialogTitle": "Please fill in both email and the password fields",
+    "emailOrPasswordEmptyDescription": "You seem to have forgotten to enter either the email or the password field, or both, Please try again",
+    "loginErrorDialogTitle": "Login Error",
+    "loginErrorDialogContent": "Invalid email/password combination. Please try again with valid login credentials!",
+    "pleaseWait": "Please wait...",
+    "enterYourPasswordHere": "Enter your password here...",
+    "enterYourEmailHere": "Enter your email here...",
+    "ok": "OK",
+    "login": "Log in",
+    "homePage": "Home Page"
+  }
+}

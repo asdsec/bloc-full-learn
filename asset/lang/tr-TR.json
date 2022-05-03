@@ -1,0 +1,14 @@
+{
+  "e102": {
+    "emailOrPasswordEmptydialogTitle": "Lütfen hem e-posta hem de şifre alanlarını doldurun",
+    "emailOrPasswordEmptyDescription": "E-posta veya şifre alanını veya her ikisini birden girmeyi unutmuş görünüyorsunuz, Lütfen tekrar deneyin.",
+    "loginErrorDialogTitle": "Sisteme giriş hatası",
+    "loginErrorDialogContent": "Geçersiz e-posta/şifre kombinasyonu. Lütfen geçerli oturum açma bilgileriyle tekrar deneyin!",
+    "pleaseWait": "Lütfen bekleyiniz...",
+    "enterYourPasswordHere": "Şifrenizi buraya girin...",
+    "enterYourEmailHere": "Email adresinizi buraya giriniz...",
+    "ok": "TAMAM",
+    "login": "Giriş Yap",
+    "homePage": "Ana Sayfa"
+  }
+}
