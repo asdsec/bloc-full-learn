@@ -10,5 +10,41 @@
     "ok": "OK",
     "login": "Log in",
     "homePage": "Home Page"
+  },
+  "e104": {
+    "error": {
+      "unKnownError": {
+        "dialogTitle": "Authentication error",
+        "dialogDescriptiion": "Unknown authentication error"
+      },
+      "noCurrentUser": {
+        "dialogTitle": "No current user!",
+        "dialogDescription": "No current user with this information was found!"
+      },
+      "requiresRecentLogin": {
+        "dialogTitle": "Requires recent login",
+        "dialogDescription": "You need to log back in again in order to perform this operation"
+      },
+      "operationNotAllowed": {
+        "dialogTitle": "Operation not allowed",
+        "dialogDescription": "You cannot register using this method at this moment!"
+      },
+      "userNotFound": {
+        "dialogTitle": "User not found",
+        "dialogDescription": "The given user was not found on the server!"
+      },
+      "weakPassword": {
+        "dialogTitle": "Weak password",
+        "dialogDescription": "Please choose a stronger password consisting of more characters!"
+      },
+      "invalidEmail": {
+        "dialogTitle": "Invalid email",
+        "dialogDescription": "Please double check your email and try again!"
+      },
+      "emailAlreadyInUse": {
+        "dialogTitle": "Email already in use",
+        "dialogDescription": "Please choose another email to register with!"
+      }
+    }
   }
 }

@@ -39,7 +39,21 @@ dependencies:
   bloc: ^8.0.3
   flutter_bloc: ^8.0.1
   flutter_hooks: ^0.18.3
+
+  # language
   easy_localization: ^3.0.0
+
+  # firebase
+  firebase_core: ^1.16.0
+  firebase_auth: ^3.3.17
+  firebase_storage: ^10.2.15
+
+  # image
+  image_picker: ^0.8.5
+
+  # to set random name assotiated with the user id for firebase storage
+  uuid: ^3.0.6
+  equatable: ^2.0.3
 
 dev_dependencies:
   flutter_test:

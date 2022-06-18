@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189378131735",
+    "project_id": "bloc-full-learn",
+    "storage_bucket": "bloc-full-learn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189378131735:android:83847d604e066c2aa16952",
+        "android_client_info": {
+          "package_name": "learn.demir.bloc_full_learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189378131735-i9le462t1lea6mi5qu2uv3s65d5f0hsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjrSglKDrOWmbTtZra4eNze8K3U4a9Ig8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189378131735-i9le462t1lea6mi5qu2uv3s65d5f0hsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -10,5 +10,41 @@
     "ok": "TAMAM",
     "login": "Giriş Yap",
     "homePage": "Ana Sayfa"
+  },
+  "e104": {
+    "error": {
+      "unKnownError": {
+        "dialogTitle": "Kimlik doğrulama hatası",
+        "dialogDescriptiion": "Bilinmeyen kimlik doğrulama hatası"
+      },
+      "noCurrentUser": {
+        "dialogTitle": "Mevcut kullanıcı yok!",
+        "dialogDescription": "Bu bilgilere sahip mevcut kullanıcı bulunamadı!"
+      },
+      "requiresRecentLogin": {
+        "dialogTitle": "Tekrar oturum açmanız gerekiyor",
+        "dialogDescription": "Bu işlemi gerçekleştirmek için tekrar giriş yapmanız gerekmektedir."
+      },
+      "operationNotAllowed": {
+        "dialogTitle": "İşleme izin verilmiyor",
+        "dialogDescription": "Şu anda bu yöntemi kullanarak kayıt olamazsınız!"
+      },
+      "userNotFound": {
+        "dialogTitle": "Kullanıcı bulunamadı",
+        "dialogDescription": "Belirtilen kullanıcı sunucuda bulunamadı!"
+      },
+      "weakPassword": {
+        "dialogTitle": "Zayıf şifre",
+        "dialogDescription": "Lütfen daha fazla karakterden oluşan daha güçlü bir şifre seçin!"
+      },
+      "invalidEmail": {
+        "dialogTitle": "Geçersiz e-posta",
+        "dialogDescription": "Lütfen e-postanızı tekrar kontrol edin ve tekrar deneyin!"
+      },
+      "emailAlreadyInUse": {
+        "dialogTitle": "E-posta zaten kullanımda",
+        "dialogDescription": "Lütfen kaydolmak için başka bir e-posta seçin!"
+      }
+    }
   }
 }
